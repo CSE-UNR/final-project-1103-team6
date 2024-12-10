@@ -1,3 +1,7 @@
+//Tannar Waters, Robert Wright, Elijah Matter
+//Final Project
+//09 December 2024
+
 #include <stdio.h>
 
 #define MAX_LINES 100
